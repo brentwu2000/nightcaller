@@ -1,0 +1,28 @@
+{
+  "name": "天黑請閉眼",
+  "short_name": "天黑請閉眼",
+  "description": "天黑請閉眼 - 狼人殺、阿瓦隆、一夜狼人等桌遊的自動語音主持人",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#F5A623",
+  "background_color": "#FAF5EB",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
