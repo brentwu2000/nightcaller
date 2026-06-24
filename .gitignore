@@ -33,9 +33,3 @@ Thumbs.db
 # === Test / coverage ===
 coverage/
 **/coverage/
-
-# === Legacy 戒食 App (not part of 天黑請閉眼 / nightcaller) ===
-/app/
-/supabase/
-/report/
-/FLUTTER_STRUCTURE.md
